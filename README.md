@@ -6,6 +6,4 @@ For my final project, I recreated a previous project, WeFood, in React and Expre
 
 - WeFood React - https://github.com/neutonfoo/wefood-react
   [![Build Status](https://travis-ci.com/neutonfoo/wefood-react.svg?branch=main)](https://travis-ci.com/neutonfoo/wefood-react)
-
 - WeFood Server - https://github.com/neutonfoo/wefood-server
-  [![Build Status](https://travis-ci.com/neutonfoo/wefood-server.svg?branch=main)](https://travis-ci.com/neutonfoo/wefood-server)
